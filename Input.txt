@@ -1,0 +1,7 @@
+1. Nama Wilayah : DKI JAKARTA, JAWA BARAT, BANTEN, JAWA TENGAH
+2. Jumlah Positif : 1.245.653 (JAWA BARAT)
+3. Jumlah Dirawat : 411 (JAWA BARAT)
+4. Jumlah Meninggal : 15.244 (JAWA BARAT)
+5. Jumlah Sembuh : 1.227.793 (JAWA BARAT)
+6. Nama Operatot : Abu Bakar Sidiq
+7. NIM Mahasiswa : 171011400778
